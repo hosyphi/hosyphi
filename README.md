@@ -19,18 +19,6 @@ I'm a full stack developer...
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/phiho)
 
 
-## Other Common Github Profile Sections ()
-👩‍💻 I'm currently working on Hanoi
-
-🧠 I'm currently learning Backend & DevOps
-
-👯‍♀️ I'm looking to collaborate on Hanoi
-
-💬 Ask me about anything
-
-⚡️ This Github profile have lots of sh*t
-
-
 ## 🛠 Skills
 Java, Spring framework techniques, microservice and related techniques
 
